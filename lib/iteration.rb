@@ -9,7 +9,7 @@ def join_ingredients(src)
   array_1=[
 ["I love [0][0] and [0][1] on my pizza"],
 
-    
+
     ]
 def find_greater_pair(src)
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]

@@ -15,6 +15,7 @@ def join_ingredients(src)
 #["I love array_1[1][0] and array_1[1][1] on my pizza"],
 #["I love array_1[2][0] and array_1[2][1] on my pizza"]
 ]
+end
 def find_greater_pair(src)
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
   # Produce a new Array that contains the larger number of each of the pairs

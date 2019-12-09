@@ -7,10 +7,10 @@ def join_ingredients(src)
   # "I love (inner array element 0) and (inner array element 1) on my pizza""
   # As such, there should be a new String for each inner array, or pair
   array123=[
-    [
+  
     "I love pepperoni and sausage on my pizza",
     "I love green olives and green peppers on my pizza",
-    "I love onions and pineapple on my pizza"]
+    "I love onions and pineapple on my pizza"
 #["I love array_1[0][0] and array_1[0][1] on my pizza"],
 #["I love array_1[1][0] and array_1[1][1] on my pizza"],
 #["I love array_1[2][0] and array_1[2][1] on my pizza"]
